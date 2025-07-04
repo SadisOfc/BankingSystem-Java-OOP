@@ -1,1 +1,2 @@
 # BankingSystem-Java-OOP
+Proyecto hecho **para repasar** Programación Orientada a Objetos en Java. Incluye clases abstractas, interfaces, herencia, polimorfismo, encapsulamiento, colecciones (Map, List) y aplicación de principios SOLID.
